@@ -1,27 +1,32 @@
 ### Hi there 👋
-### I am Gautam
+#### I am **Gautam**
 
 #### I am currently majoring in CSE
 
 #### I look forward to join DRDO
 
-#### My main area of expertise is 
+#### Reach me at 
+    - Gmail -> g7.gautam10@gmail.com
+    - Reddit -> u/Gautam_DJG 
+        - Display Name : AtomicMan7910
+    - Instagram -> gautam.b10
+
+#### My main area of interest is 
 
 - **SOFTWARE DEVELOPMENT**
 - **SOFTWARE DESIGN**
 - **PROJECT MANAGEMENT**
 - **GUI PROGRAMMING**
 
-#### I am currently working on
+#### I am also working on
 
 - **GAME DEVELOPMENT**
 - **CYBER SECURITY**
 
-#### I would appreciate any suggestion and improvement on my projects
+#### I would appreciate any suggestion and improvement on my projects 😄
 
 #### I conclude by a quote of great LINUS TORVALDS
-    > talk is cheap
-    > show me the code
+    > talk is cheap, show me the code
     
     
 <!--
