@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I am **Gautam**
-![video of profile](Hnet-image.gif)
+                            ![video of profile](Hnet-image.gif)
 #### I am currently majoring in CSE
 
 #### I look forward to joining DRDO
