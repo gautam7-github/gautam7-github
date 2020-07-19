@@ -1,14 +1,13 @@
 ### Hi there 👋
 #### I am **Gautam**
-
+![video of profile] (demo/gitprof.gif)
 #### I am currently majoring in CSE
 
-#### I look forward to join DRDO
+#### I look forward to joining DRDO
 
 #### Reach me at 
     - Gmail -> g7.gautam10@gmail.com
     - Reddit -> u/Gautam_DJG 
-        - Display Name : AtomicMan7910
     - Instagram -> gautam.b10
 
 #### My main area of interest is 
@@ -22,6 +21,8 @@
 
 - **GAME DEVELOPMENT**
 - **CYBER SECURITY**
+- **GRAPHIC DESIGNING**
+- **TYPOGRAPHY**
 
 #### I would appreciate any suggestion and improvement on my projects 😄
 
