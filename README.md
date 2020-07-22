@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+This is the profile you are looking for...
+
 #### I am **Gautam**
 
 #### I am currently majoring in CSE
 
 #### I look forward to joining DRDO
 
-#### Reach me at 
+#### Reach me at 📫
     - Gmail -> g7.gautam10@gmail.com
     - Reddit -> u/Gautam_DJG 
     - Instagram -> gautam.b10
@@ -22,12 +24,14 @@
 - **GAME DEVELOPMENT**
 - **CYBER SECURITY**
 - **GRAPHIC DESIGNING**
-- **TYPOGRAPHY**
+- **SOFTWARE TESTING**
 
 #### I would appreciate any suggestion and improvement on my projects 😄
 
-#### I conclude by a quote of great LINUS TORVALDS
-    > talk is cheap, show me the code
+#### I conclude by a quote of great 
+#### LINUS TORVALDS
+    > talk is cheap
+    > show me the code
     
     
 <!--
