@@ -12,6 +12,8 @@ This is the profile you are looking for...
     - Reddit -> u/Gautam_DJG 
     - Instagram -> gautam.b10
 
+<a href="https://dev.to/magnificio777"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gautam's DEV Profile" height="30" width="50"> </a>
+
 #### My main area of interest is 
 
 - **SOFTWARE DEVELOPMENT**
