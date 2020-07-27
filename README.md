@@ -6,16 +6,16 @@ This is the profile you are looking for...
 #### I am currently majoring in CSE
 
 #### Reach me at 📫
-    - Gmail -> g7.gautam10@gmail.com
-    - Reddit -> u/Gautam_DJG 
-##### Instagram -> <a href="https://instagram.com/gautam.b10"> gautam.b10 </a>
+##### Gmail -> g7.gautam10@gmail.com
+##### Reddit -> u/Gautam_DJG 
+##### <img src="" /> <a href="https://instagram.com/gautam.b10"> gautam.b10 </a>
 
 <a href="https://dev.to/magnificio777"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gautam's DEV Profile" height="30" width="50"> </a>
 
 #### 🖥️ My main area of interest is 
 
-- **SOFTWARE DEVELOPMENT**
-- **SOFTWARE DESIGN**
+- **SOFTWARE DEVELOPMENT | DESIGN | TESTING |**
+- **CYBERSECURITY**
 - **PROJECT MANAGEMENT**
 - **GUI PROGRAMMING**
 
