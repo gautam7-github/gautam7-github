@@ -8,15 +8,17 @@ This is the profile you are looking for...
 #### Reach me at 📫
 ##### Gmail -> g7.gautam10@gmail.com
 ##### Reddit -> <a href="https://www.reddit.com/user/Gautam_DJG/"> Gautam_DJG </a>
-##### <img src="" /> <a href="https://instagram.com/gautam.b10"> gautam.b10 </a>
+##### Instagram -> <a href="https://instagram.com/coding_the_world"> Coding The World </a>
+##### Instagram Personal -> <a href="https://instagram.com/gautam.b10"> Gautam </a>
 
 <a href="https://dev.to/magnificio777"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gautam's DEV Profile" height="30" width="50"> </a>
 
 #### 🖥️ My main area of interest is 
 
-- **SOFTWARE DEVELOPMENT | DESIGN | TESTING |**
+- **SOFTWARE**
+    - **DEVELOPMENT | DESIGN | TESTING |**
 - **CYBERSECURITY**
-- **PROJECT MANAGEMENT**
+- **DEVOPS**
 - **GUI PROGRAMMING**
 
 #### 🔭 I’m currently working on 
