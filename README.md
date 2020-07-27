@@ -5,28 +5,24 @@ This is the profile you are looking for...
 
 #### I am currently majoring in CSE
 
-#### I look forward to joining DRDO
-
 #### Reach me at 📫
     - Gmail -> g7.gautam10@gmail.com
     - Reddit -> u/Gautam_DJG 
-    - Instagram -> gautam.b10
+##### Instagram -> <a href="https://instagram.com/gautam.b10"> gautam.b10 </a>
 
 <a href="https://dev.to/magnificio777"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gautam's DEV Profile" height="30" width="50"> </a>
 
-#### My main area of interest is 
+#### 🖥️ My main area of interest is 
 
 - **SOFTWARE DEVELOPMENT**
 - **SOFTWARE DESIGN**
 - **PROJECT MANAGEMENT**
 - **GUI PROGRAMMING**
 
-#### I am also working on
-
-- **GAME DEVELOPMENT**
-- **CYBER SECURITY**
-- **GRAPHIC DESIGNING**
-- **SOFTWARE TESTING**
+#### 🔭 I’m currently working on 
+- **AI Dungeon Game**
+- **AI ChatBot**
+- **Virtual Bank**
 
 #### I would appreciate any suggestion and improvement on my projects 😄
 
