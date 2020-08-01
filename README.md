@@ -6,20 +6,19 @@ This is the profile you are looking for...
 #### I am currently majoring in CSE
 
 #### Reach me at 📫
-##### Gmail -> g7.gautam10@gmail.com
-##### Reddit -> <a href="https://www.reddit.com/user/Gautam_DJG/"> Gautam_DJG </a>
-##### Instagram -> <a href="https://instagram.com/coding_the_world"> Coding The World </a>
-##### Instagram Personal -> <a href="https://instagram.com/gautam.b10"> Gautam </a>
+- Gmail -> g7.gautam10@gmail.com
+- Reddit -> <a href="https://www.reddit.com/user/Gautam_DJG/"> Gautam_DJG </a>
+- Instagram -> <a href="https://instagram.com/coding_the_world"> Coding The World </a>
+- Instagram Personal -> <a href="https://instagram.com/gautam.b10"> Gautam </a>
 
 <a href="https://dev.to/magnificio777"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gautam's DEV Profile" height="30" width="50"> </a>
 
 #### 🖥️ My main area of interest is 
 
-- **SOFTWARE**
-    - **DEVELOPMENT | DESIGN | TESTING |**
+- **SOFTWARE ENGINEERING**
 - **CYBERSECURITY**
 - **DEVOPS**
-- **GUI PROGRAMMING**
+- **GRAPHICAL USER INTERFACES**
 
 #### 🔭 I’m currently working on 
 - **AI Dungeon Game**
