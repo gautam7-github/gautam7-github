@@ -9,11 +9,11 @@ This is the profile you are looking for...
 
 #### Reach me at 📫
 - Gmail -> g7.gautam10@gmail.com
-- Reddit -> <a href="https://www.reddit.com/user/Gautam_DJG/"> Gautam_DJG </a>
-- Instagram -> <a href="https://instagram.com/coding_the_world"> Coding The World </a>
-- Instagram Personal -> <a href="https://instagram.com/gautam.b10"> Gautam </a>
-
-<a href="https://dev.to/magnificio777"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gautam's DEV Profile" height="30" width="50"> </a>
+- Reddit -> Gautam_DJG <a href="https://www.reddit.com/user/Gautam_DJG/"> <img src="https://github.com/gautam7-github/gautam7-github/blob/master/reddit.png"> </a>
+- Instagram  
+   - <a href="https://instagram.com/coding_the_world"> <img src="https://github.com/gautam7-github/gautam7-github/blob/master/instagram.png"> </a> Coding_The_World 
+   - <a href="https://instagram.com/gautam.b10"> <img src="https://github.com/gautam7-github/gautam7-github/blob/master/instagram.png"> </a> gautam.b10  
+- Dev -> <a href="https://dev.to/magnificio777"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gautam's DEV Profile" height="30" width="50"> </a>
 
 <hr>
 
@@ -44,7 +44,7 @@ This is the profile you are looking for...
     
 <!--
 **gautam7-github/gautam7-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
