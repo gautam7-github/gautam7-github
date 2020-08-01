@@ -1,9 +1,11 @@
 ### Hello there 👋
 This is the profile you are looking for...
 
-#### I am **Gautam**
+#### My Name is **GAUTAM**
 
 #### I am currently majoring in CSE
+
+<hr>
 
 #### Reach me at 📫
 - Gmail -> g7.gautam10@gmail.com
@@ -13,6 +15,8 @@ This is the profile you are looking for...
 
 <a href="https://dev.to/magnificio777"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gautam's DEV Profile" height="30" width="50"> </a>
 
+<hr>
+
 #### 🖥️ My main area of interest is 
 
 - **SOFTWARE ENGINEERING**
@@ -20,12 +24,16 @@ This is the profile you are looking for...
 - **DEVOPS**
 - **GRAPHICAL USER INTERFACES**
 
-#### 🔭 I’m currently working on 
+<hr>
+
+#### 🔭 I’m currently working on
 - **AI Dungeon Game**
 - **AI ChatBot**
 - **Virtual Bank**
 
 #### I would appreciate any suggestion and improvement on my projects 😄
+
+<hr>
 
 #### I conclude by a quote of great 
 #### LINUS TORVALDS
