@@ -29,9 +29,12 @@ This is the profile you are looking for...
 - ⚡ Others
    - InkScape
    - Adobe Illustrator
-   - Canva 
+   - Canva
+   - Adobe XD
+   - Figma
    - FL Studio
    - BandLab
+<hr>
 <hr>
 
 #### 🔭 I’m currently working on
