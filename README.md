@@ -1,4 +1,4 @@
-### <h1 align= "center"><b>Hello There :yoda:</b></h1>
+### <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
 This is the profile you are looking for...
 
@@ -10,7 +10,7 @@ This is the profile you are looking for...
 
 #### Reach me at 📫
 
--  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=g7.gautam10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g7.gautam10@gmail.com"> g7.gautam10@gmail.com </a>
+-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=g7.gautam10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g7.gautam10@gmail.com"></a>
 -  Reddit -> <a href="https://www.reddit.com/user/Gautam_DJG/"> Gautam_DJG <img src="https://github.com/gautam7-github/gautam7-github/blob/master/reddit.png"> </a>
 -  <a href="https://instagram.com/coding_the_world"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"> Coding_The_World </a>
 -  <a href="https://instagram.com/gautam.b10"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"> gautam.b10 </a>
@@ -19,8 +19,7 @@ This is the profile you are looking for...
 <hr>
 
 #### 🖥️ My Tech Stack
--  C
--  C++
+-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/python.svg" alt="python">
 -  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 -  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter">
