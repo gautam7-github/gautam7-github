@@ -22,8 +22,7 @@ This is the profile you are looking for...
 -  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/python.svg" alt="python">
 -  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
--  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter">
--  ⚡ Linux Shell
+-  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/dart_colour.svg" alt="dart" />
 -  🛠 TOOLS
    -  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
    -  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
