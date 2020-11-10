@@ -1,4 +1,4 @@
-### Hello there 👋
+### <h1 align= "center"><b>Hello There :yoda:</b></h1>
 
 This is the profile you are looking for...
 
@@ -19,10 +19,11 @@ This is the profile you are looking for...
 <hr>
 
 #### 🖥️ My Tech Stack
--  ⚡ C / C++
+-  C
+-  C++
 -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/python.svg" alt="python">
 -  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
--  ⚡ Dart / Flutter
+-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter">
 -  ⚡ Linux Shell
 -  🛠 TOOLS
    -  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
