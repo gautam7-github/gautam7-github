@@ -10,7 +10,7 @@ This is the profile you are looking for...
 
 #### Reach me at 📫
 
--  Gmail -> g7.gautam10@gmail.com
+-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=g7.gautam10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g7.gautam10@gmail.com"> g7.gautam10@gmail.com </a>
 -  Reddit -> <a href="https://www.reddit.com/user/Gautam_DJG/"> Gautam_DJG <img src="https://github.com/gautam7-github/gautam7-github/blob/master/reddit.png"> </a>
 -  <a href="https://instagram.com/coding_the_world"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"> Coding_The_World </a>
 -  <a href="https://instagram.com/gautam.b10"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"> gautam.b10 </a>
@@ -21,18 +21,18 @@ This is the profile you are looking for...
 #### 🖥️ My Tech Stack
 -  ⚡ C / C++
 -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/python.svg" alt="python">
--  ⚡ JavaScript
--  ⚡ Git
+-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 -  ⚡ Dart / Flutter
 -  ⚡ Linux Shell
 -  🛠 TOOLS
-   -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/visualstudio_code.svg" alt="vscode">
+   -  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+   -  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
    -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm">
-   -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/visualstudio.svg" alt="visualstudio>
-   -  Adobe Illustrator
-   -  Canva
-   -  Adobe XD
-   -  Figma
+   -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/visualstudio.svg" alt="visualstudio">
+   -  ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+   -  ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+   -  ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=white)
+   
 <hr>
 <hr>
 
