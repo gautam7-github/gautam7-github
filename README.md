@@ -2,9 +2,9 @@
 
 This is the profile you are looking for...
 
-#### My Name is **_GAUTAM_**
+#### My Name is :man_technologist: **GAUTAM**
 
-#### I am currently majoring in CSE
+#### I am currently majoring in Computer Science & Engineering
 
 <hr>
 
