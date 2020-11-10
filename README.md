@@ -20,7 +20,7 @@ This is the profile you are looking for...
 <hr>
 
 #### 🖥️ My Tech Stack
-
+-  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/python.svg" alt="python">
 -  ⚡ C
 -  ⚡ C++
 -  ⚡ Python
