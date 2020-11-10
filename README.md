@@ -28,9 +28,9 @@ This is the profile you are looking for...
    -  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
    -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm">
    -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/visualstudio.svg" alt="visualstudio">
-   -  ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-   -  ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-   -  ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=white)
+   -  ![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-plastic&logo=adobe-photoshop&logoColor=ffffff)
+   -  ![Adobe Illustrator](http://img.shields.io/badge/-Adobe%20Illustrator-FC8F30?style=flat-plastic&logo=adobe-illustrator&logoColor=ffffff)
+   -  ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-plastic&logo=figma&logoColor=white)
    
 <hr>
 <hr>
