@@ -45,16 +45,11 @@ This is the profile you are looking for...
 
 -  **Text Encryption / Decryption Tool**
 -  **AI ChatBot**
--  **Virtual Bank**
--  **Hotel Management System**
 -  **Flutter Star Wars Guide App**
 
 #### I would appreciate any suggestion and improvement on my projects 😄
 
 <hr>
 
-#### I conclude by a quote of great
-
-#### LINUS TORVALDS
-
+#### I conclude by a quote of great <h2> LINUS TORVALDS </h2>
     > talk is cheap, show me the code
