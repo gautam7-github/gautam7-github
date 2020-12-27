@@ -31,13 +31,13 @@ This is the profile you are looking for...
 -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/python.svg" alt="python">
 -  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-plastic&logo=javascript)
 -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/dart_colour.svg" alt="dart" />
+-  ![SQLite](http://img.shields.io/badge/-SQLite-FC8F30?style=flat-plastic&logo=sqlite&logoColor=ffffff)
 -  🛠 TOOLS
    -  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
    -  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
    -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm">
    -  <img src="https://github.com/gautam7-github/gautam7-github/blob/master/Assets/visualstudio.svg" alt="visualstudio">
    -  ![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-plastic&logo=adobe-photoshop&logoColor=ffffff)
-   -  ![Adobe Illustrator](http://img.shields.io/badge/-Adobe%20Illustrator-FC8F30?style=flat-plastic&logo=adobe-illustrator&logoColor=ffffff)
    -  ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-plastic&logo=figma&logoColor=white)
    
 <hr>
