@@ -20,7 +20,7 @@ This is the profile you are looking for...
 <br>
 <a href="https://discord.gg/tJEAaHU"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <br>
-<a href="https://www.linkedin.com/in/gautam-kumar-563aa5201/"><img src="https://img.shields.io/badge/linkedin-%237289DA.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/gautam-7"><img src="https://img.shields.io/badge/linkedin-%237289DA.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <br>
 </p>
 <hr>
@@ -47,8 +47,7 @@ This is the profile you are looking for...
 
 -  **Text Encryption / Decryption Tool**
 -  **Dynamic Non-Key-Based Encryption Algorithm**
--  **AI ChatBot**
--  **Flutter Star Wars Guide App**
+
 
 #### I would appreciate any suggestion and improvement on my projects 😄
 
