@@ -43,11 +43,6 @@ This is the profile you are looking for...
 <hr>
 <hr>
 
-#### 🔭 I’m currently working on
-
--  **Text Encryption / Decryption Tool**
--  **Dynamic Non-Key-Based Encryption Algorithm**
-
 
 #### I would appreciate any suggestion and improvement on my projects 😄
 
