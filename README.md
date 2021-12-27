@@ -31,6 +31,7 @@ $ .\Proficient-in
 
 $ .\Moderately-Experienced-in
 - Dart (Flutter 2) {GetX}
+- Java
 
 $ .\Dabbled-in
 - HTML5
@@ -48,26 +49,34 @@ $ .\Version-Control
 $ .\Tools
 - VSCode
 - Google Colab
-- Jupyter Lab
+- Jupyter Notebooks/Lab
 - PyCharm
 - Visual Studio
 - Android Studio
+- Microsoft Excel
 - Canva
 - Figma
 
 $ .\Database
 - MySQL
 - SQLite
+- Redshift
 - FireBase
 
 $ .\Systems
-- Windows 10
+- Windows 11
 - GNU/Linux
 
 $ .\Deployment
 - repl.it
 - Heroku
-   
+
+$ .\Other
+- Web Scraping
+- REST APIs
+- Exploratory Data Analysis
+- UI Design
+
 <hr>
 <hr>
 
