@@ -25,12 +25,12 @@ This is the profile you are looking for...
 
 #### 🖥️ My Tech Stack
 $ .\Proficient-in
-- C
-- C++ (STL, Boost)
 - Python
+- Dart (Flutter 2)
 
 $ .\Moderately-Experienced-in
-- Dart (Flutter 2) {GetX}
+- C
+- C++ (STL)
 - Java
 
 $ .\Dabbled-in
@@ -40,19 +40,25 @@ $ .\Dabbled-in
 - JavaScript
 
 $ .\Curious-about
-- Golang
+- Solidity
+- GoLang
 
 $ .\Version-Control
 - Git
 - GitHub
 
-$ .\Tools
+$ .\Coding-Tools
 - VSCode
 - Google Colab
-- Jupyter Notebooks/Lab
+- Jupyter Notebooks
 - PyCharm
 - Visual Studio
 - Android Studio
+
+$ .\Tools
+- DOMO
+- Power BI
+- Tableau
 - Microsoft Excel
 - Canva
 - Figma
