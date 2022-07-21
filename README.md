@@ -23,7 +23,7 @@ This is the profile you are looking for...
 </p>
 <hr>
 
-#### 🖥️ My Tech Stack
+## Tech Stack
 $ .\Proficient-in
 - Python
 - Dart (Flutter 2)
@@ -37,6 +37,7 @@ $ .\Dabbled-in
 - HTML5
 - CSS3
 - Bootstrap
+- Tailwind CSS
 - JavaScript
 
 $ .\Curious-about
@@ -55,15 +56,18 @@ $ .\Coding-Tools
 - Visual Studio
 - Android Studio
 
-$ .\Tools
+$ .\BI-Tools
 - DOMO
 - Power BI
 - Tableau
+- Google Data Studio
 - Microsoft Excel
+
+$ .\Design-Tools
 - Canva
 - Figma
 
-$ .\Database
+$ .\Databases
 - MySQL
 - SQLite
 - Redshift
@@ -73,19 +77,31 @@ $ .\Systems
 - Windows 11
 - GNU/Linux
 
-$ .\Deployment
+$ .\Deployments
 - repl.it
 - Heroku
 
-$ .\Other
+## Domain Knowledge
+
 - Web Scraping
-- REST APIs
+- REST APIs Design and Development
+- Data Preprocessing
 - Exploratory Data Analysis
+- Data Modelling
+- Image Processing
 - UI Design
+- AWS IAM Policy Writing
 
 <hr>
 <hr>
 
+### 📊 My Stats
+
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam7-github&show_icons=true&theme=rose_pine)](https://github.com/gautam7-github)
+
+[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam7-github&show_icons=true&theme=rose_pine)](https://github.com/gautam7-github)
+<hr>
+<hr>
 
 #### I would appreciate any suggestion and improvement on my projects 😄
 
