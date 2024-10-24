@@ -4,7 +4,7 @@ This is the profile you are looking for...
 
 #### My Name is :man_technologist: **GAUTAM**
 
-#### I am currently majoring in Computer Science & Engineering
+#### I am a gold medalist in CS from MRSPTU, Punjab, India.
 
 <hr>
 
